@@ -1,4 +1,4 @@
-# Exemplos de  s"oftwares 
+# Exemplos de  softwares 
 __*Facebook*__ - Propósito é ser uma Rede Social
 __*Play-Store*__ -  Distribuidora de Apicativos
 __*Amazon*__ *(Loja Web/App)* - Venda de produtos de forma online
